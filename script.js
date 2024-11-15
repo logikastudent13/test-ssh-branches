@@ -1,2 +1,2 @@
 //made new changes
-const a = 2;
+const a = 3;
